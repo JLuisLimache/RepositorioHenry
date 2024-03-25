@@ -1,1 +1,1 @@
-# RepositorioHenry
+Este proyecto es del primer ejercicio.
